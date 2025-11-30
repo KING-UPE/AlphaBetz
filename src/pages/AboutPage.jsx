@@ -41,7 +41,7 @@ function AboutPage() {
         { href: "mailto:upendraunivercity@gmail.com", icon: Mail, bgColor: "bg-red-100", textColor: "text-red-700 dark:text-red-400", text: "Email" },
         { href: "https://www.instagram.com/__crazy._.demon__/", icon: Instagram, bgColor: "bg-pink-100", textColor: "text-pink-700 dark:text-pink-400", text: "Instagram" },
         { href: "https://web.facebook.com/UpendraDasanayak", icon: Facebook, bgColor: "bg-sky-100", textColor: "text-sky-700 dark:text-sky-400", text: "Facebook" },
-        { href: "https://www.youtube.com/@Upendra_Uddimantha", icon: Youtube, bgColor: "bg-red-100", textColor: "text-red-700 dark:text-red-400", text: "YouTube" },
+        { href: "https://www.youtube.com/@Upendra_Dasanayaka", icon: Youtube, bgColor: "bg-red-100", textColor: "text-red-700 dark:text-red-400", text: "YouTube" },
 
         // FIXED: Use Music2 as TikTok icon
         { 
