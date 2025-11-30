@@ -95,19 +95,4 @@ Explore all 12 tenses using the interactive **Tense Structure Tree**.
 Enter any sentence → choose **Time**, **Aspect**, **Form**, **Voice** → get instant transformation + explanation.
 
 ### 🧠 3. Practice Session
-Use the 4-step wizard:
-
-**Step 1/4 – Introduction**  
-Overview of your custom session.
-
-**Step 2/4 – Choose:**  
-- Tense categories: Present / Past / Future  
-- Sentence forms  
-
-**Step 3/4 – Choose:**  
-- Voice: Active / Passive  
-- Question types: Conversion, Fill-in-Blank, Recognition  
-
-**Step 4/4 – Choose:**  
-- Number of questions  
-- Time limit  
+Practice with targetted tenses with varius quection types.
