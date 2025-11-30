@@ -36,7 +36,7 @@ function AboutPage() {
     // (using light base for light mode, and transparent colors with dark:bg-opacity for dark mode)
     const allSocialLinks = [
         { href: "https://upendradasanayaka.vercel.app/", icon: Globe, bgColor: "bg-blue-100", textColor: "text-blue-700 dark:text-blue-400", text: "Website" },
-        { href: "https://www.linkedin.com/in/upendra-uddimantha-dasanayaka/", icon: Linkedin, bgColor: "bg-indigo-100", textColor: "text-indigo-700 dark:text-indigo-400", text: "LinkedIn" },
+        { href: "https://www.linkedin.com/in/Upendra-Dasanayaka/", icon: Linkedin, bgColor: "bg-indigo-100", textColor: "text-indigo-700 dark:text-indigo-400", text: "LinkedIn" },
         { href: "https://github.com/KING-UPE", icon: Github, bgColor: "bg-gray-100", textColor: "text-gray-700 dark:text-gray-300", text: "GitHub" },
         { href: "mailto:upendraunivercity@gmail.com", icon: Mail, bgColor: "bg-red-100", textColor: "text-red-700 dark:text-red-400", text: "Email" },
         { href: "https://www.instagram.com/__crazy._.demon__/", icon: Instagram, bgColor: "bg-pink-100", textColor: "text-pink-700 dark:text-pink-400", text: "Instagram" },
