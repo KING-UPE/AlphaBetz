@@ -86,7 +86,7 @@ Also includes:
 
 ---
 
-## 🚀 How to Use AlphaBetz
+## 🚀 Why AlphaBetz?
 
 ### 🌐 1. Learn Tab
 Explore all 12 tenses using the interactive **Tense Structure Tree**.
