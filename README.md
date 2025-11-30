@@ -6,7 +6,7 @@ AlphaBetz is a modern, responsive, open-source educational tool designed to help
 
 ## 🌐 Live Demo
 🔗 **Try AlphaBetz Live Here**  
-*(Add your deployed link)*
+[*(Click Here)*](https://alphabatz.vercel.app/)
 
 ---
 
