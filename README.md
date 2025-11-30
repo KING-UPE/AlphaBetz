@@ -1,16 +1,126 @@
-# React + Vite
+📚 AlphaBetz – English Tenses Master ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AlphaBetz is a modern, responsive, open-source educational tool designed to help users master English verb tenses through structured learning, instant sentence conversion, and customizable practice drills.
 
-Currently, two official plugins are available:
+🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Try AlphaBetz Live Here
+(Add your deployed link)
 
-## React Compiler
+🎯 Core Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+AlphaBetz provides three powerful modes for learning and practicing English tenses:
 
-## Expanding the ESLint configuration
+📘 Learn Mode
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A structured learning environment to explore all 12 English tenses with:
+
+Visual tense diagram
+
+Detailed structures & formulas
+
+Usage rules
+
+Examples (Active + Passive)
+
+Built-in Text-to-Speech
+
+Includes: Tense Tree Diagram, Voice Tabs, TTS
+
+🔄 Converter
+
+Instantly transform any sentence into a target:
+
+Tense
+
+Voice (Active/Passive)
+
+Form (Affirmative / Negative / Question)
+
+Shows:
+
+Converted sentence
+
+Step-by-step grammar explanation
+
+Includes: Settings Wizard, AI Conversion, Grammar Breakdown
+
+🧠 Practice Mode
+
+Create personalized drills by choosing:
+
+Tense categories
+
+Forms
+
+Voice
+
+Question type
+
+Sentence Conversion
+
+Fill-in-the-Blank
+
+Tense Recognition (MCQ)
+
+Also includes:
+
+Optional timer
+
+Scoring system
+
+Results summary
+
+Includes: Toggles, Quiz UI, Timer, Results Screen
+
+✨ Technology Stack
+Component	Tech Used
+💻 Frontend	React (Vite), JavaScript, Tailwind CSS
+🎨 Styling	Tailwind + Dark Mode
+🎛️ State Handling	React Hooks (useState, useEffect, etc.)
+🌐 Architecture	React Router DOM (SPA)
+🎤 Accessibility	SpeechSynthesis API (TTS)
+🛠️ Developer & Project Details
+
+Developed by Upendra Dasanayaka
+
+Completely free & open-source
+
+Built with modern UI/UX, performance, and security in mind
+
+Includes built-in Dark Mode toggle
+
+🚀 How to Use AlphaBetz
+🌐 1. Learn Tab
+
+Explore all 12 tenses using the interactive Tense Structure Tree.
+
+🔄 2. Converter
+
+Enter any sentence → choose Time, Aspect, Form, Voice → get instant transformation + explanation.
+
+🧠 3. Practice Session
+
+Use the 4-step wizard:
+
+Step 1/4 – Introduction
+
+Overview of your custom session.
+
+Step 2/4 – Choose:
+
+Tense categories: Present / Past / Future
+
+Sentence forms
+
+Step 3/4 – Choose:
+
+Voice: Active / Passive
+
+Question types: Conversion, Fill-in-Blank, Recognition
+
+Step 4/4 – Choose:
+
+Number of questions
+
+Time limit
