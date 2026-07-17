@@ -41,7 +41,7 @@ export default async function handler(req, res) {
     // Initialize the client
     const genAI = new GoogleGenerativeAI(apiKey);
     // Use gemini-2.5-flash for fast, structured text generation
-    const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
+    const model = genAI.getGenerativeModel({ model: "gemini-3.1-flash-lite" });
 
     try {
         const conversionPrompt = `

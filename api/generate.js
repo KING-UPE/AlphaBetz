@@ -48,7 +48,7 @@ export default async function handler(req, res) {
 
     // Initialize the client
     const genAI = new GoogleGenerativeAI(apiKey);
-    const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
+    const model = genAI.getGenerativeModel({ model: "gemini-3.1-flash-lite" });
     
     // UPDATED PROMPT: More explicit per-type guidance for better schema adherence
     const userPrompt = `
